@@ -1,0 +1,2 @@
+# android_note_4
+android导入Telegram表情包Intent格式
